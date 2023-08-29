@@ -1,2 +1,2 @@
-# gcis-123test
-assignment 1.1
+# Hanson Tsai
+assignment 1.1 create my repo in github
